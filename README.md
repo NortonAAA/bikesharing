@@ -6,4 +6,4 @@ The purpose of this analysis was to review existing data for New York City bike 
 
 ## Results
 Per the Tableau file below there are several visuals that will explain the program.
-[Andrew's Tableau Story] (https://public.tableau.com/views/BikeShareChallenge_16639890198640/BikeShareChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Andrew's Tableau Story](https://public.tableau.com/views/BikeShareChallenge_16639890198640/BikeShareChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
